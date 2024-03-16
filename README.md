@@ -6,4 +6,4 @@
 - 📫 How to reach me: marko.bosnjak.9898@gmail.com
 - 😄 Pronouns: dev/ops
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=MarkoBosnjak1)
